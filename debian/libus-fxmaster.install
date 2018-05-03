@@ -1,0 +1,5 @@
+Board_Data.c boards/MajenkoTechnologies/libus-fxmaster
+Board_Defs.h boards/MajenkoTechnologies/libus-fxmaster
+EFADC.c boards/MajenkoTechnologies/libus-fxmaster
+MZ-application-32MZ2048EFG.ld boards/MajenkoTechnologies/libus-fxmaster
+board.txt boards/MajenkoTechnologies/libus-fxmaster
